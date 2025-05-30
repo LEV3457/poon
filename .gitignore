@@ -1,0 +1,14 @@
+.venv
+.env
+
+*.log
+*.json
+
+__pycache__
+
+*.jpg
+*.jpeg
+*.png
+
+*.db
+*.sqlite3
